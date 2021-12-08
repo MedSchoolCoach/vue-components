@@ -1,0 +1,23 @@
+{
+  "name": "@medschoolcoach/vue-components",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "src",
+    "nuxt",
+    "plugins",
+    "static"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedSchoolCoach/vue-components.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MedSchoolCoach/vue-components/issues"
+  },
+  "homepage": "https://github.com/MedSchoolCoach/vue-components#readme",
+  "devDependencies": {
+    "nuxt": "^2.14.1"
+  }
+}
